@@ -4,7 +4,7 @@ A python implementation of the Conway's *Game of Life* cellular automata simulat
 
 ![Screen Shot 2021-02-03 at 17 56 45](https://user-images.githubusercontent.com/5897858/106781602-85e5ae80-6649-11eb-92f7-3662f05c2dbf.png)
 
-## Setup the development environment
+## Setup the environment
 A bash script is provided to setup the Python virtual environment:
 
 ```bash
